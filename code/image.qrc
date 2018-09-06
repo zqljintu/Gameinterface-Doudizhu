@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>image/basebackground0.png</file>
+        <file>image/nongmin0.png</file>
+        <file>image/dizhu.png</file>
+        <file>image/nongmin1.png</file>
+        <file>image/card.png</file>
+        <file>image/cards.png</file>
+        <file>image/cardsss.png</file>
+        <file>image/rightcardsss.png</file>
+        <file>image/leftcardsss.png</file>
+    </qresource>
+</RCC>
